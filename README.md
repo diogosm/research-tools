@@ -13,8 +13,10 @@ A collection of tools or useful websites for younger researchers
   * [Mendeley](#mendeley)
 * [Analysis of State of Art](#analysis-of-state-of-art)
   * [StArt](#start)
+* [Bibliometric Analysis](#bibliometric-analysis)
+  * [VantagePoint](#vantagepoint)
 * [Doing or Searching images and Making Charts and Flows](#doing-or-searching-images-and-making-charts-and-flows)
-  * [Plot.ly](#plot.ly) 
+  * [Plot.ly](#plotly) 
 * [Writing](#writing)
   * [Overleaf](#overleaf)
 
@@ -32,11 +34,15 @@ A collection of tools or useful websites for younger researchers
 
 ## Analysis of State of Art
 
-* [StArt](http://lapes.dc.ufscar.br/tools/start_tool): A tool for doing systematic review.
+* [StArt](http://lapes.dc.ufscar.br/tools/start_tool): A tool for doing systematic review. Support for importing RIS and bib files, check for duplicate papers and identifying papers in clustering by reference graph construction.
+
+## Bibliometric Analysis
+
+* [VantagePoint](https://www.thevantagepoint.com/): A tool for text-mining and knowledge discovery in search results from patents and literature datases. Good for generating and analyzing co-ocurrence matrix, relation maps, trends, etc. Good tutorial [here](http://www.ufrgs.br/ebbc2012/arquivos/workshop-2).
 
 ## Doing or Searching images and Making Charts and Flows
 
-* [Plot.ly](https://plot.ly/): A online tool to build charts and plots in a easy way. Also, you can access other people charts and importing it to your personal area. Also support API integration with many languages. 
+* [Plotly](https://plot.ly/): A online tool to build charts and plots in a easy way. Also, you can access other people charts and importing it to your personal area. Also support API integration with many languages. 
 
 ## Writing
 
