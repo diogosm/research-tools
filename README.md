@@ -45,6 +45,7 @@ A collection of tools or useful websites for younger researchers
 
 * [Plotly](https://plot.ly/): A online tool to build charts and plots in a easy way. Also, you can access other people charts and importing it to your personal area. Also support API integration with many languages. 
 * [Drawio](https://www.draw.io/): A online tool to build diagrams, network diagrams, UML, venn diagrams and flowcharts. Support for Google Drive saving and exporting image.
+* [Textografo](https://textografo.com/?): A tool for building flowchats easily.
 
 ## Writing
 
