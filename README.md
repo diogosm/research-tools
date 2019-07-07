@@ -52,6 +52,8 @@ A collection of tools or useful websites for younger researchers
 
 ## Bibliometric Analysis
 
+Here, we present some useful tools for helping you in bibliometric analysis. For more informations about what is it, read [here](https://www.the-research-hub.org/bibliometric-citation-analysis-all-you-need-to-know/).
+
 * [VantagePoint](https://www.thevantagepoint.com/): A tool for text-mining and knowledge discovery in search results from patents and literature datases. Good for generating and analyzing co-ocurrence matrix, relation maps, trends, etc. Good tutorial [here](http://www.ufrgs.br/ebbc2012/arquivos/workshop-2).
 * [Publish or Perish](https://harzing.com/resources/publish-or-perish): A tool for measuring research impact and bibliometric analysis.
 
