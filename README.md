@@ -11,13 +11,22 @@ A collection of tools or useful websites for younger researchers
   * [Scanbot](#scanbot)
 * [Paper Reading tools](#paper-reading-tools)
   * [Mendeley](#mendeley)
+  * [Zotero](#zotero)
 * [Analysis of State of Art](#analysis-of-state-of-art)
   * [StArt](#start)
 * [Bibliometric Analysis](#bibliometric-analysis)
   * [VantagePoint](#vantagepoint)
+  * [Publish or Perish](#publish-or-perish)
 * [Doing or Searching images and Making Charts and Flows](#doing-or-searching-images-and-making-charts-and-flows)
   * [Plot.ly](#plotly) 
   * [Draw.io](#drawio)
+  * [Textografo](#textografo)
+  * [Xmind](#xmind)
+  * [Jupyter](#jupyter)
+  * [Tikz](#tikz)
+  * [Map in seconds](#map-in-seconds)
+  * [Onodo](#onodo)
+  * [Orange](#orange)
 * [Writing](#writing)
   * [Overleaf](#overleaf)
 
@@ -32,6 +41,7 @@ A collection of tools or useful websites for younger researchers
 ## Paper Reading tools
 
 * [Mendeley](https://www.mendeley.com/): A tool for managing your papers and do easy citations.
+* [Zotero](https://www.zotero.org/): A powerful tool similar to mendeley.
 
 ## Analysis of State of Art
 
@@ -40,12 +50,30 @@ A collection of tools or useful websites for younger researchers
 ## Bibliometric Analysis
 
 * [VantagePoint](https://www.thevantagepoint.com/): A tool for text-mining and knowledge discovery in search results from patents and literature datases. Good for generating and analyzing co-ocurrence matrix, relation maps, trends, etc. Good tutorial [here](http://www.ufrgs.br/ebbc2012/arquivos/workshop-2).
+* [Publish or Perish](https://harzing.com/resources/publish-or-perish): A tool for measuring research impact and bibliometric analysis.
 
 ## Doing or Searching images and Making Charts and Flows
 
 * [Plotly](https://plot.ly/): A online tool to build charts and plots in a easy way. Also, you can access other people charts and importing it to your personal area. Also support API integration with many languages. 
 * [Drawio](https://www.draw.io/): A online tool to build diagrams, network diagrams, UML, venn diagrams and flowcharts. Support for Google Drive saving and exporting image.
 * [Textografo](https://textografo.com/?): A tool for building flowchats easily.
+* [Xmind](https://www.xmind.net/): A tool for building mind maps.
+* [Jupyter](https://jupyter.org/): A inline tool for making plots, programming some stuff, writing notes. Please, learn to use python and Jupyter. Support for languages: python, R, Julia, markdown, etc.
+  * Important links about jupyter and examples:
+    * [Reproduced Papers](http://reproduced-papers.github.io/)
+    * [Statistical learning notebooks](https://github.com/sujitpal/statlearning-notebooks)
+    * [Applied predictive modelling with python](https://nbviewer.jupyter.org/github/leig/Applied-Predictive-Modeling-with-Python/tree/master/notebooks/)
+    * [Python notebooks for geoscience](https://github.com/koldunovn/python_for_geosciences)
+    * [Some random notebooks](https://nbviewer.jupyter.org/github/nealcaren/workshop_2014/tree/master/notebooks/)
+    * [Some classifiers and statistical tests using jupyter/python](https://nbviewer.jupyter.org/github/ClickSecurity/data_hacking/blob/master/sql_injection/sql_injection.ipynb)
+    * [Feature importance using jupyter/python](https://chrisalbon.com/machine_learning/trees_and_forests/feature_importance/)
+    * [Feature importance using jupyter/python 2](https://www.kaggle.com/grfiv4/plotting-feature-importances)
+* [Tikz](http://www.texample.net/tikz/): A very powerful drawing package built in LaTeX to produce plots, flows, diagrams, graphs, and any purpose images.
+  * Important links to Tikz:
+    * [Tikz awesome](https://github.com/xiaohanyu/awesome-tikz#readme)
+* [Map in seconds](http://www.mapinseconds.com/): A online tool to import your data (with countries, city, etc) to generate map based plots with heat. Try it.
+* [Onodo](https://onodo.org/): A online tool to generate graph based plots.
+* [Orange](http://orange.biolab.si/): A very powerful data mining tool. Apply filter for your data, plotting, machine learning techniques, etc.
 
 ## Writing
 
