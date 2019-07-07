@@ -27,8 +27,11 @@ A collection of tools or useful websites for younger researchers
   * [Map in seconds](#map-in-seconds)
   * [Onodo](#onodo)
   * [Orange](#orange)
+  * [Cocalc](#cocalc)
 * [Writing](#writing)
   * [Overleaf](#overleaf)
+  * [Hemingway](#hemingway)
+  * [Proselint](#proselint)
 
 ## Planning and Organization
 
@@ -74,8 +77,11 @@ A collection of tools or useful websites for younger researchers
 * [Map in seconds](http://www.mapinseconds.com/): A online tool to import your data (with countries, city, etc) to generate map based plots with heat. Try it.
 * [Onodo](https://onodo.org/): A online tool to generate graph based plots.
 * [Orange](http://orange.biolab.si/): A very powerful data mining tool. Apply filter for your data, plotting, machine learning techniques, etc.
+* [Cocalc](https://cocalc.com/): A online computing tool that supports Jupyter notebooks, R and LaTeX. Also support share your coding screens.
 
 ## Writing
 
 * [Overleaf](https://www.overleaf.com/): A LaTeX online editor with support for sharing code, add edit contributors, many scientific events templates and tutorials. 
+* [Hemingway](https://hemingwayapp.com/): A tool to make you write clear and better.
+* [Proselint](https://github.com/amperser/proselint): Another tool to help you writing avoiding jargons or even banned words.
 
